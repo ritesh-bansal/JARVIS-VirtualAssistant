@@ -270,4 +270,3 @@ if __name__ == '__main__':
         elif 'bye' in voice_note:
             playsound('mp3/Jarvis/goodbye.mp3')
             exit()
-
